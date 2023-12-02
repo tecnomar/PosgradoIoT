@@ -1,0 +1,13 @@
+.sidebar-dark-primary{
+    background: #275087 !important;
+}
+
+.navbar-white {
+    background: #275087 !important;
+}
+.nav-link{
+    color: white !important;
+}
+.brand-link{
+    border-bottom: 1px solid #9fa6ac !important;
+}

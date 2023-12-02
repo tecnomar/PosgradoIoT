@@ -1,0 +1,6 @@
+Options -Indexes
+RewriteEngine On
+
+# Redirigir la URL amigable a la URL con parámetros
+
+RewriteRule ^([a-z]{3,})$ index.php?view=$1 [QSA,NC,L]
